@@ -20,7 +20,7 @@ redirect_from:
 # 👋 About me
 I am currently working toward an M.S. degree in Artificial Intelligence at the School of Computer and Artificial Intelligence, Southwest Jiaotong University, Chengdu, China. I also received a B.S. degree in Big Data Management and Application from Chang'an University, Xi'an, China, in 2024.
 
-I believe fully autonomous driving will become a reality, and that's what interests me.My research interests mainly include: Autonomous driving, Cooperative Perception and V2X.
+I believe fully autonomous driving will become a reality, and that's what interests me. My research interests mainly include: Autonomous driving, Cooperative perception and V2X.
 
 
 # 🔥 News
