@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "JUNFEI ZHOU'S HOMEPAGE"
-description              : "Master student of Southwest Jiaotong University"
+title                    : "Junfei Zhou'S Homepage"
+description              : "Master student"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Junfei Zhou"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/jeffrey.jpeg"
   bio              : "Southwest Jiaotong University"
   location         : "Chengdu, China"
   employer         :
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "jeffreychou777"
   google_plus      :
   keybase          :
   instagram        :

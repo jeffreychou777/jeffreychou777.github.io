@@ -17,27 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋About me
+# 👋 About me
 I am currently a master student in Southwest Jiaotong University，
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.05*: &nbsp;🎉🎉 1 paper is accepted at CVPR 2024.
 
 # 📝 Publications 
-
+## B.S.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/MM-AU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Abductive Ego-View Accident Video Understanding for Safe Driving Perception](https://arxiv.org/abs/2403.00436)
+[Abductive Ego-View Accident Video Understanding for Safe Driving Perception]
 
 Jianwu Fang\*, Lei-lei Li\*, **Junfei Zhou**\*, Junbin Xiao, Hongkai Yu, Chen Lv, Jianru Xue, Tat-Seng Chua
 
-[**Project**](https://github.com/jeffreychou777/LOTVS-MM-AU) <strong><span [**Homepage**](http://www.lotvsmmau.net/)></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code**](https://github.com/jeffreychou777/LOTVS-MM-AU)|[**Homepage**](http://www.lotvsmmau.net/)|[**Paper**]((https://arxiv.org/abs/2403.00436))
 </div>
 </div>
 
