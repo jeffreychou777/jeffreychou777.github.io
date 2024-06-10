@@ -42,7 +42,7 @@ Jianwu Fang\*, Lei-lei Li\*, **Junfei Zhou**\*, Junbin Xiao, Hongkai Yu, Chen Lv
 # 🎖 Honors and Awards
 - *2023.06* The 13th National Student Market Research and Analysis Competition，National third prize
 - *2023.05* The Mathematical Contest in Modeling，Finalist.
-- *2023.03* The 18th National Students Transportation Science and Technology Competition, Provincial third prize
+- *2023.03* The 18th National Student Transportation Science and Technology Competition, Provincial third prize
 
 # 📖 Educations
 - *2024.09 - 2027.06 (now)*, M.S. Southwest Jiaotong university, Artifical Intelligence
