@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/MM-AU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Abductive Ego-View Accident Video Understanding for Safe Driving Perception]
+Abductive Ego-View Accident Video Understanding for Safe Driving Perception[CVPR 2024 Highlight(2.8% of 11532 submissions)]
 
 Jianwu Fang\*, Lei-lei Li\*, **Junfei Zhou**\*, Junbin Xiao, Hongkai Yu, Chen Lv, Jianru Xue, Tat-Seng Chua
 
