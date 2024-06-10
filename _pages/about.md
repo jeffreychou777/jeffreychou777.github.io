@@ -42,7 +42,7 @@ Jianwu Fang\*, Lei-lei Li\*, **Junfei Zhou**\*, Junbin Xiao, Hongkai Yu, Chen Lv
 # 🎖 Honors and Awards
 - *2023.06* The 13th National Student Market Research and Analysis Competition，National third prize
 - *2023.05* The Mathematical Contest in Modeling，Finalist.
-- *2023.03* The 18th National College Students Traffic Science and Technology Competition, Provincial third prize
+- *2023.03* The 18th National Students Traffic Science and Technology Competition, Provincial third prize
 
 # 📖 Educations
 - *2024.09 - 2027.06 (now)*, M.S. Southwest Jiaotong university, Artifical Intelligence
@@ -55,4 +55,5 @@ Jianwu Fang\*, Lei-lei Li\*, **Junfei Zhou**\*, Junbin Xiao, Hongkai Yu, Chen Lv
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+# 🗺️ Vistors Map
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5lnaiyi94rv&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
