@@ -35,7 +35,7 @@ Abductive Ego-View Accident Video Understanding for Safe Driving Perception[CVPR
 
 Jianwu Fang\*, Lei-lei Li\*, **Junfei Zhou**\*, Junbin Xiao, Hongkai Yu, Chen Lv, Jianru Xue, Tat-Seng Chua
 
-[**Code**](https://github.com/jeffreychou777/LOTVS-MM-AU)|[**Homepage**](http://www.lotvsmmau.net/)|[**Paper**]((https://arxiv.org/abs/2403.00436))
+[**Code**](https://github.com/jeffreychou777/LOTVS-MM-AU)|[**Homepage**](http://www.lotvsmmau.net/)|[**Paper**](https://arxiv.org/abs/2403.00436)
 </div>
 </div>
 
