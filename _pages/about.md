@@ -56,21 +56,11 @@ Jianwu Fang\*, Lei-lei Li\*, **Junfei Zhou**\*, Junbin Xiao, Hongkai Yu, Chen Lv
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 🗺️ Visitors Map
-<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5lnaiyi94rv&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
-<!-- <iframe src="https://www.revolvermaps.com/livestats/..." width="320" height="240" scrolling="no" frameborder="0"></iframe> -->
-<!-- <a href="https://info.flagcounter.com/XXXX">
-  <img src="https://s11.flagcounter.com/count2/XXXX/bg_FFFFFF/txt_000000/border_CCCCCC/flags_1/" alt="Flag Counter">
-</a> -->
-
-<!-- <iframe src="https://clustrmaps.com/map_v2.js?d=XXXX" width="320" height="200" frameborder="0" scrolling="no"></iframe> -->
 
 <div id="globe-container" style="
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
   width: 25vw;
-  height: 25vh;
+  height: 12.5vh;
+  margin: 0 auto;
   overflow: hidden;
 ">
   <script id="clstr_globe" src="//clustrmaps.com/globe.js?d=sj70i12TvQb_Y28Rcmxln28cnoIHyR_Vz75OQqqs79g"></script>
