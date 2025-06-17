@@ -58,6 +58,8 @@ Jianwu Fang\*, Lei-lei Li\*, **Junfei Zhou**\*, Junbin Xiao, Hongkai Yu, Chen Lv
 # 🗺️ Visitors Map
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5lnaiyi94rv&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
 <!-- <iframe src="https://www.revolvermaps.com/livestats/..." width="320" height="240" scrolling="no" frameborder="0"></iframe> -->
-<a href="https://info.flagcounter.com/XXXX">
+<!-- <a href="https://info.flagcounter.com/XXXX">
   <img src="https://s11.flagcounter.com/count2/XXXX/bg_FFFFFF/txt_000000/border_CCCCCC/flags_1/" alt="Flag Counter">
-</a>
+</a> -->
+
+<iframe src="https://clustrmaps.com/map_v2.js?d=XXXX" width="320" height="200" frameborder="0" scrolling="no"></iframe>
