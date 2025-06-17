@@ -57,6 +57,4 @@ Jianwu Fang\*, Lei-lei Li\*, **Junfei Zhou**\*, Junbin Xiao, Hongkai Yu, Chen Lv
 
 # 🗺️ Visitors Map
 
-<a href="https://clustrmaps.com/site/1btdt" title="Visitor Map">
-  <img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=sj70i12TvQb_Y28Rcmxln28cnoIHyR_Vz75OQqqs79g" style="width: 300px; height: auto;">
-</a>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sj70i12TvQb_Y28Rcmxln28cnoIHyR_Vz75OQqqs79g&cl=ffffff&w=a"></script>
