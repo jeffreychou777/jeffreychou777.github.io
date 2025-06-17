@@ -57,11 +57,12 @@ Jianwu Fang\*, Lei-lei Li\*, **Junfei Zhou**\*, Junbin Xiao, Hongkai Yu, Chen Lv
 
 # 🗺️ Visitors Map
 
-<div id="globe-container" style="
-  width: 25vw;
-  height: 12.5vh;
-  margin: 0 auto;
-  overflow: hidden;
-">
-  <script id="clstr_globe" src="//clustrmaps.com/globe.js?d=sj70i12TvQb_Y28Rcmxln28cnoIHyR_Vz75OQqqs79g"></script>
+<div style="text-align: center;">
+  <div id="globe-container" style="
+    display: inline-block;
+    transform: scale(0.3);  /* 缩放比例为原来的 30% */
+    transform-origin: center top;  /* 缩放时保持顶部对齐 */
+  ">
+    <script id="clstr_globe" src="//clustrmaps.com/globe.js?d=sj70i12TvQb_Y28Rcmxln28cnoIHyR_Vz75OQqqs79g"></script>
+  </div>
 </div>
