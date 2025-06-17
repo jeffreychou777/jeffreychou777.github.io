@@ -64,4 +64,14 @@ Jianwu Fang\*, Lei-lei Li\*, **Junfei Zhou**\*, Junbin Xiao, Hongkai Yu, Chen Lv
 
 <!-- <iframe src="https://clustrmaps.com/map_v2.js?d=XXXX" width="320" height="200" frameborder="0" scrolling="no"></iframe> -->
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=sj70i12TvQb_Y28Rcmxln28cnoIHyR_Vz75OQqqs79g"></script>
+<div id="globe-container" style="
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 25vw;
+  height: 25vh;
+  overflow: hidden;
+">
+  <script id="clstr_globe" src="//clustrmaps.com/globe.js?d=sj70i12TvQb_Y28Rcmxln28cnoIHyR_Vz75OQqqs79g"></script>
+</div>
