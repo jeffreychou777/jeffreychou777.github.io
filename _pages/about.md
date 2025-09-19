@@ -24,6 +24,7 @@ I believe fully autonomous driving will become a reality, and that's what intere
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 1 paper is accepted at NeurIPS 2025!
 - *2024.02*: &nbsp;🎉🎉 1 paper is accepted at CVPR 2024.
 
 # 📝 Publications 
