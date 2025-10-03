@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About me
-I am currently working toward an M.S. degree in Artificial Intelligence at the School of Computing and Artificial Intelligence, Southwest Jiaotong University, Chengdu, China. I also received a B.S. degree in Big Data Management and Application from Chang'an University, Xi'an, China, in 2024.
+I am currently working toward an M.S. degree supervised by Prof. [Penglin Dai](https://itsgroups.github.io/) in Artificial Intelligence at the School of Computing and Artificial Intelligence, Southwest Jiaotong University, Chengdu, China. I also received a B.S. degree supervised by Prof. [Jianwu Fang](https://scholar.google.com/citations?hl=en&user=hr8eDYsAAAAJ) in Big Data Management and Application from Chang'an University, Xi'an, China, in 2024.
 
 I believe fully autonomous driving will become a reality, and that's what interests me. My research interests mainly include: Autonomous driving, Cooperative perception and V2X.
 
@@ -32,18 +32,18 @@ I believe fully autonomous driving will become a reality, and that's what intere
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/MM-AU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Abductive Ego-View Accident Video Understanding for Safe Driving Perception[CVPR 2024 Highlight(2.8% of 11532 submissions)]
+Abductive Ego-View Accident Video Understanding for Safe Driving Perception[CVPR 2024 **Highlight**(2.8% of 11532 submissions)]
 
-Jianwu Fang\*, Lei-lei Li\*, **Junfei Zhou**\*, Junbin Xiao, Hongkai Yu, Chen Lv, Jianru Xue, Tat-Seng Chua
+Jianwu Fang\*, Lei-lei Li\*, **Junfei Zhou**\*, Junbin Xiao, Hongkai Yu, Chen Lv, Jianru Xue, Tat-Seng Chua (*Equal contribution)
 
 [**Code**](https://github.com/jeffreychou777/LOTVS-MM-AU)|[**Homepage**](http://www.lotvsmmau.net/)|[**Paper**](https://openaccess.thecvf.com/content/CVPR2024/papers/Fang_Abductive_Ego-View_Accident_Video_Understanding_for_Safe_Driving_Perception_CVPR_2024_paper.pdf)
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2023.06* The 13th National Student Market Research and Analysis Competition，National third prize
+- *2023.06* The 13th National Student Market Research and Analysis Competition，National third prize.
 - *2023.05* The Mathematical Contest in Modeling，Finalist.
-- *2023.03* The 18th National Student Transportation Science and Technology Competition, Provincial third prize
+- *2023.03* The 18th National Student Transportation Science and Technology Competition, Provincial third prize.
 
 # 📖 Educations
 - *2024.09 - 2027.06 (now)*, M.S. Southwest Jiaotong university, Artifical Intelligence
