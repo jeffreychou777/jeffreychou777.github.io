@@ -41,8 +41,10 @@ Jianwu Fang\*, Lei-lei Li\*, **Junfei Zhou**\*, Junbin Xiao, Hongkai Yu, Chen Lv
 </div>
 
 # 🎖 Honors and Awards
-- *2023.06* The 13th National Student Market Research and Analysis Competition，National third prize.
-- *2023.05* The Mathematical Contest in Modeling，Finalist.
+- *2025.10* Excellent Graduate Student **(2/241, Top 0.8%)** 
+- *2025.10* **The Natinal Scholarship**
+- *2023.06* The 13th National Student Market Research and Analysis Competition，**National third prize**.
+- *2023.05* The Mathematical Contest in Modeling，**Finalist**.
 - *2023.03* The 18th National Student Transportation Science and Technology Competition, Provincial third prize.
 
 # 📖 Educations
