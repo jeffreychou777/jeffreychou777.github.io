@@ -20,7 +20,18 @@ redirect_from:
 # 👋 About me
 I am currently working toward an M.S. degree supervised by Prof. [Penglin Dai](https://itsgroups.github.io/) in Artificial Intelligence at the School of Computing and Artificial Intelligence, Southwest Jiaotong University, Chengdu, China. I also received a B.S. degree supervised by Prof. [Jianwu Fang](https://scholar.google.com/citations?hl=en&user=hr8eDYsAAAAJ) in Big Data Management and Application from Chang'an University, Xi'an, China, in 2024.
 
-I believe fully autonomous driving will become a reality, and that's what interests me. My research interests mainly include: Autonomous driving, Cooperative perception and V2X.
+I believe that fully autonomous driving will eventually become a reality, which deeply inspires my research interests. My primary research focuses include autonomous driving, cooperative perception, and V2X communication.
+
+<div style="background-color: #f0fff1ff; border-left: 4px solid #ACD78E; padding: 1rem 1.2rem; margin-bottom: 2rem; border-radius: 6px;">
+  <p style="margin: 0; font-size: 1.05rem; color: #588E31; font-weight: 400;">
+    🚀 I am seeking <strong>Early 2026 research assistant or research intern positions</strong> in the field of autonomous driving, available in China mainland, Hong Kong SAR, and Singapore.
+    <br>
+    Simultaneously, I am also open to <strong>Fall 2027 Ph.D.</strong> opportunities, focusing on autonomous driving and related areas in the same regions.
+    <br>
+    <strong>Please feel free to contact me at</strong> jeffreychou777@gmail.com or jeffreychou@my.swjtu.edu.cn.
+  </p>
+</div>
+
 
 
 # 🔥 News
@@ -28,6 +39,18 @@ I believe fully autonomous driving will become a reality, and that's what intere
 - *2024.02*: &nbsp;🎉🎉 1 paper is accepted at CVPR 2024.
 
 # 📝 Publications 
+## M.S.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/GenComm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Pragmatic Heterogeneous Collaborative Perception via Generative Communication Mechanism[NeruIPS 2025]
+
+**Junfei Zhou**, Penglin Dai, Quanmin Wei, Bingyi Liu, Xiao Wu, Jianping Wang
+
+[**Code**]*(https://github.com/jeffreychou777/GenComm)|[**Homepage**](jeffreychou777.github.io/GenComm/)|[**Paper**]()
+</div>
+</div>
+
 ## B.S.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/MM-AU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
