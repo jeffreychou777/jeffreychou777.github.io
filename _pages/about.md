@@ -24,7 +24,7 @@ I believe that fully autonomous driving will eventually become a reality, which 
 
 <div style="background-color: #f0f4ff; border-left: 4px solid #007acc; padding: 1rem 1.2rem; margin-bottom: 2rem; border-radius: 6px;">
   <p style="margin: 0; font-size: 1.05rem; color: #003366; font-weight: 400;">
-    🚀 I am seeking <strong>Early 2026(or Late 2025) research assistant or research intern positions</strong> and <strong>Fall 2027 Ph.D. opportunities</strong> in the field of autonomous driving, available in <strong>China mainland, Hong Kong SAR, and Singapore.</strong>
+    🚀 I am seeking <strong>research assistant or research intern positions starting in Late 2025 or Early 2026</strong>, as well as <strong>Fall 2027 Ph.D. opportunities</strong> in the field of autonomous driving, available in <strong>mainland China, Hong Kong SAR, and Singapore.</strong>
     <br>
     Please feel free to contact me: jeffreychou777@gmail.com or jeffreychou@my.swjtu.edu.cn.
   </p>
