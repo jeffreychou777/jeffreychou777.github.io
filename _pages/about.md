@@ -22,13 +22,11 @@ I am currently working toward an M.S. degree supervised by Prof. [Penglin Dai](h
 
 I believe that fully autonomous driving will eventually become a reality, which deeply inspires my research interests. My primary research focuses include autonomous driving, cooperative perception, and V2X communication.
 
-<div style="background-color: #f0fff1ff; border-left: 4px solid #ACD78E; padding: 1rem 1.2rem; margin-bottom: 2rem; border-radius: 6px;">
-  <p style="margin: 0; font-size: 1.05rem; color: #588E31; font-weight: 400;">
-    🚀 I am seeking <strong>Early 2026 research assistant or research intern positions</strong> in the field of autonomous driving, available in China mainland, Hong Kong SAR, and Singapore.
+<div style="background-color: #f0f4ff; border-left: 4px solid #007acc; padding: 1rem 1.2rem; margin-bottom: 2rem; border-radius: 6px;">
+  <p style="margin: 0; font-size: 1.05rem; color: #003366; font-weight: 400;">
+    🚀 I am seeking <strong>Early 2026(or Late 2025) research assistant or research intern positions</strong> and <strong>Fall 2027 Ph.D. opportunities</strong> in the field of autonomous driving, available in <strong>China mainland, Hong Kong SAR, and Singapore.</strong>
     <br>
-    Simultaneously, I am also open to <strong>Fall 2027 Ph.D.</strong> opportunities, focusing on autonomous driving and related areas in the same regions.
-    <br>
-    <strong>Please feel free to contact me at</strong> jeffreychou777@gmail.com or jeffreychou@my.swjtu.edu.cn.
+    Please feel free to contact me: jeffreychou777@gmail.com or jeffreychou@my.swjtu.edu.cn.
   </p>
 </div>
 
@@ -43,11 +41,13 @@ I believe that fully autonomous driving will eventually become a reality, which 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/GenComm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Pragmatic Heterogeneous Collaborative Perception via Generative Communication Mechanism[NeruIPS 2025]
+Pragmatic Heterogeneous Collaborative Perception via Generative Communication Mechanism
+
+[NeruIPS 2025]
 
 **Junfei Zhou**, Penglin Dai, Quanmin Wei, Bingyi Liu, Xiao Wu, Jianping Wang
 
-[**Code**](https://github.com/jeffreychou777/GenComm)|[**Homepage**](jeffreychou777.github.io/GenComm/)|[**Paper**]()
+[**Code**](https://github.com/jeffreychou777/GenComm)|[**Homepage**](https://jeffreychou777.github.io/GenComm/)|[**Paper**]()
 </div>
 </div>
 
@@ -55,7 +55,9 @@ Pragmatic Heterogeneous Collaborative Perception via Generative Communication Me
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/MM-AU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Abductive Ego-View Accident Video Understanding for Safe Driving Perception[CVPR 2024 **Highlight**(2.8% of 11532 submissions)]
+Abductive Ego-View Accident Video Understanding for Safe Driving Perception
+
+[CVPR 2024 **Highlight**(2.8% of 11532 submissions)]
 
 Jianwu Fang\*, Lei-lei Li\*, **Junfei Zhou**\*, Junbin Xiao, Hongkai Yu, Chen Lv, Jianru Xue, Tat-Seng Chua (*Equal contribution)
 
