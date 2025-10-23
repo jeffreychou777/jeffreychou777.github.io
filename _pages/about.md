@@ -47,7 +47,7 @@ Pragmatic Heterogeneous Collaborative Perception via Generative Communication Me
 
 **Junfei Zhou**, Penglin Dai, Quanmin Wei, Bingyi Liu, Xiao Wu, Jianping Wang
 
-[**Code**](https://github.com/jeffreychou777/GenComm)|[**Homepage**](https://jeffreychou777.github.io/GenComm/)|[**Paper**]()
+[**Code**](https://github.com/jeffreychou777/GenComm)|[**Homepage**](https://jeffreychou777.github.io/GenComm/)|[**Paper**](https://arxiv.org/pdf/2510.19618)
 </div>
 </div>
 
