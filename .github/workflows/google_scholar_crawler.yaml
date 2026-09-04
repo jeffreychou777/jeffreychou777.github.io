@@ -24,12 +24,15 @@ jobs:
         run: pip install -r google_scholar_crawler/requirements.txt
 
       - name: Fetch Google Scholar data
+        id: fetch_scholar_data
+        continue-on-error: true
         working-directory: google_scholar_crawler
         env:
           GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
         run: python main.py
 
       - name: Publish to the google-scholar-stats branch
+        if: ${{ steps.fetch_scholar_data.outcome == 'success' }}
         working-directory: google_scholar_crawler/results
         run: |
           git init -b google-scholar-stats
